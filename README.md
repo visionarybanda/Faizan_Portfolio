@@ -1,5 +1,4 @@
-# Faizan_Portfolio
-Data Science Portfolio
+### Data Science Portfolio
 
 # [Project1: Wine Quality Comparision]
 
